@@ -60,13 +60,6 @@ Currently studying **Systems Engineering** at UTN FRLP.
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Veilen1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veilen1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
----
-
 *Open to work — remote, on-site, or hybrid* 🇦🇷
 
 </div>
